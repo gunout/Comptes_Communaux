@@ -1,7 +1,7 @@
 # Comptes_Communaux
 Analyses des Comptes Communaux de L'ile de la reunion 
 
-# INSTALL DEPEDENCIES 
+# INSTALL DEPENDENCIES 
 
     pip install -r requirements.txt
 
